@@ -1064,3 +1064,33 @@ img {
 .co{
   color: black;
 }
+.map{
+    border-radius:50%;
+    height: 7rem;
+    width: 7rem;
+    text-align: center;
+    align-content: center;
+    align-items: center;
+}
+.map1{
+    margin-top:100px;
+    margin-right:auto;
+    margin-left:auto;
+}
+.footer{
+    width:100px;
+    position:fixed;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    height: 50px;
+    background-color:#6d384bb3;
+    width: 100%;
+    text-align: center;
+    font-family: "Montserrat", sans-serif;
+    opacity: 0.85;
+}
+
+.footer a{
+    color: white;
+}
